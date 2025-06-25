@@ -1,6 +1,7 @@
 <h2> Hi, I'm Habib! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV4ejNhOTY2bG5hdnZ4MmkxOTdiejQxMjk5ZzhjNTNvZXVuNjRmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z9vxfIMzxbTaGwBkc5/giphy.gif" width="230"> -->
-<p><em>Aircraft Maintenance Engineer at <a href="https://aaub.edu.bd/">Aviation and Aerospace University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p> </em>
+<p><em>Aircraft Maintenance Engineer at <a href="https://aaub.edu.bd/">Aviation and Aerospace University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p> </em> 
+<p><em> MERN stack developer</p></em>
 
 [![Linkedin: wdhabib](https://img.shields.io/badge/-wdhabib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wdhabib/)](https://www.linkedin.com/in/wdhabib/)
 [![GitHub Habib-676](https://img.shields.io/github/followers/habib-676?label=follow&style=social)](https://github.com/habib-676)
