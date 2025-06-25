@@ -28,7 +28,7 @@ const habib = {
 }
 ```
 
-## Projected Included
+## Recent Projects
 
 - *Fixitronix* – A full-featured electronics service website offering repair, maintenance, and consultation for various electronic devices.
 - *QuickRepair* – A fast and user-friendly online platform for booking home appliance repair services with real-time technician tracking.
