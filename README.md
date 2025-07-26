@@ -31,5 +31,5 @@ const habib = {
 ## Recent Projects
 
 - *Fixitronix* – A full-featured electronics service website offering repair, maintenance, and consultation for various electronic devices.
-- *QuickRepair* – A fast and user-friendly online platform for booking home appliance repair services with real-time technician tracking.
+- *Employeevia* – Designed for modern HR operations, this platform streamlines employee workload tracking, payroll management, and role-based access control.
 - *Quirer Services* – A modern and responsive service-based website designed for managing and showcasing multiple on-demand repair and maintenance solutions.
